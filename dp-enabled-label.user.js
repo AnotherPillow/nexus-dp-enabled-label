@@ -7,6 +7,7 @@
 // @author      -
 // @description Adds a more noticeable label to mods' descriptions to indicate if DP is enabled or not
 // @grant       GM_addStyle
+// @downloadURL https://anotherpillow.github.io/nexus-dp-enabled-label/dp-enabled-label.user.js
 // ==/UserScript==
 
 const ENABLED_HTML = `<i class="material-icons" style="font-size:18px;margin-right:4px;color: #27ae60">attach_money</i><span class="flex-copy">This mod <b>is opted in</b> to our mod rewards program.</span><div class="dp-enabled-label-wrap"></div>`
